@@ -17,6 +17,8 @@ The major functionalities of this chatbot are as follows:
 9. Regarding all the latest notifications from the college.
 10. Details about the research projects handled currently.
 
+For Execution visit https://youtu.be/JgXMcei7mY0
+
 # Team Members
 1. L.V.S.Prasanna
 2. V.D.V.S.Sarada Devi
